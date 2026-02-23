@@ -1,1 +1,3 @@
-This is a sample file for github in the Develop Branch.
+This is a sample file for github in the Develop Branch. 
+
+This is a change in the file in the Git repo.
